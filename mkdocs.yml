@@ -1,1 +1,10 @@
+site_name: Balzo_Federico
 
+nav:
+
+  - 'Test': 'test.txt'
+
+markdown_extensions:
+    - toc: permalink: True
+theme:
+  name : readthedocs
