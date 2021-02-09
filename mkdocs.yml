@@ -2,9 +2,8 @@ site_name: Balzo_Federico
 
 nav:
 
-  - 'Test': 'test.txt'
+     - 'Test': 'test.txt'
 
-markdown_extensions:
-    - toc: permalink: True
+
 theme:
-  name : readthedocs
+      name : readthedocs
